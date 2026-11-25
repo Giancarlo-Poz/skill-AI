@@ -27,13 +27,15 @@ Coming soon!
 
 ## Repository structure
 
-.
-├── prompt-improver-giancarlo/
-│   └── SKILL.md
-├── prompt-improver-italiano-giancarlo/
-│   └── SKILL.md
-└── coming-skill/
-    └── SKILL.md
+```
+.  
+├── prompt-improver-giancarlo/  
+│   └── SKILL.md  
+├── prompt-improver-italiano-giancarlo/  
+│   └── SKILL.md  
+└── coming-skill/  
+    └── SKILL.md  
+```
 
 ## Design principles
 
